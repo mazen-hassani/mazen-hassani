@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazen-hassani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassani.mazen@gmail.com)
 
-**Backend Engineer @ Bruker | Spain Permanent Resident 🇪🇸 | 18 Years of Building**
+**Backend Engineer @ Bruker | Living between Spain 🇪🇸 and UAE 🇦🇪 | 18 Years of Building**
 
 </div>
 
@@ -82,7 +82,7 @@ timeline
 ```
 
 **Current Role:** Backend Software Developer @ **Bruker** (Dec 2023 - Present)
-📍 Santiago de Compostela, Spain | 🇪🇸 Spain Permanent Resident
+📍 Santiago de Compostela, Spain | Living between Spain 🇪🇸 and UAE 🇦🇪 (Dubai)
 
 - Architecting **Java Spring Boot microservices** for scientific instruments
 - **CI/CD optimization** - reduced deployment time by implementing automated pipelines
@@ -147,25 +147,13 @@ I've spent 18 years building from the metal to the cloud. Here's what that looks
 <td width="50%">
 
 #### 🥉 WRO 2018 - Tetrastack (9th in World)
-**NI myRIO • LabVIEW • Computer Vision • TETRIX**
-
-Autonomous robot that located, identified, and stacked colored Tetris-like shapes using advanced computer vision. Competed against 70+ countries in Thailand.
-
-**Key Innovation:** Real-time shape recognition with binary thresholding and autonomous manipulation.
-
-[🎥 Watch Competition](https://youtu.be/Twa7rqZuhAo) | [📁 Code](https://github.com/mazen-hassani/wro-2018-tetris-challenge)
+[🎥 Watch Competition](https://youtu.be/Twa7rqZuhAo)
 
 </td>
 <td width="50%">
 
 #### 🥇 EDC 3.0 - Mars Challenge (1st Place, $1,500)
-**Control Theory • ML • Navigation • Computer Vision**
-
-Autonomous robot tackling Mars colonization challenges at AUB. First place out of university teams across MENA region.
-
-**Key Innovation:** Advanced control systems integrating ML for navigation in simulated Mars environment.
-
-[🎥 Watch Competition](https://youtu.be/6U5sefCrNyI) | [📁 3D Model](https://github.com/mazen-hassani/edc-3d-model)
+[🎥 Watch Competition](https://youtu.be/6U5sefCrNyI)
 
 </td>
 </tr>
@@ -260,20 +248,6 @@ Founded 3D printing business specializing in robotics parts during challenging t
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazen-hassani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-hassani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazen-hassani&theme=tokyonight&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=c9d1d9)
-
-</div>
-
-**97 Repositories** spanning robotics, backend, web, AI, embedded systems, and PCB design
-
 ---
 
 ## 📚 Education
@@ -288,7 +262,7 @@ Damascus University, Syria (2012-2019)
 
 ## 🌍 About Me
 
-- 🇪🇸 **Based in:** Santiago de Compostela, Spain (Permanent Resident)
+- 🌍 **Based in:** Santiago de Compostela, Spain 🇪🇸 and Dubai, UAE 🇦🇪
 - 🌐 **Languages:** English (fluent) • Arabic (native) • Spanish (beginner)
 - 🏆 **Philosophy:** Build things that matter, compete to grow, teach to solidify knowledge
 - 🔭 **Currently:** Scaling microservices at Bruker while staying sharp on robotics fundamentals
